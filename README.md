@@ -1,3 +1,3 @@
 # django-rest-api
 
-# next tutorial
+# next tutorial django
